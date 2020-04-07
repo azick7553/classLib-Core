@@ -1,0 +1,15 @@
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/bin/Debug/netcoreapp3.1/alifConsoleApp.deps.json
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/bin/Debug/netcoreapp3.1/alifConsoleApp.runtimeconfig.json
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/bin/Debug/netcoreapp3.1/alifConsoleApp.runtimeconfig.dev.json
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/bin/Debug/netcoreapp3.1/alifConsoleApp.dll
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/bin/Debug/netcoreapp3.1/alifConsoleApp.pdb
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/bin/Debug/netcoreapp3.1/classLibProjects.dll
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/bin/Debug/netcoreapp3.1/classLibProjects.pdb
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/obj/Debug/netcoreapp3.1/alifConsoleApp.csprojAssemblyReference.cache
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/obj/Debug/netcoreapp3.1/alifConsoleApp.csproj.CoreCompileInputs.cache
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/obj/Debug/netcoreapp3.1/alifConsoleApp.AssemblyInfoInputs.cache
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/obj/Debug/netcoreapp3.1/alifConsoleApp.AssemblyInfo.cs
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/obj/Debug/netcoreapp3.1/alifConsoleApp.csproj.CopyComplete
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/obj/Debug/netcoreapp3.1/alifConsoleApp.dll
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/obj/Debug/netcoreapp3.1/alifConsoleApp.pdb
+/Users/azizjon/Projects/alifAcademyLibProjects/alifConsoleApp/obj/Debug/netcoreapp3.1/alifConsoleApp.genruntimeconfig.cache

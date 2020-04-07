@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "alifConsoleApp/1.0.0": {
+        "dependencies": {
+          "classLibProjects": "1.0.0"
+        },
+        "runtime": {
+          "alifConsoleApp.dll": {}
+        }
+      },
+      "classLibProjects/1.0.0": {
+        "runtime": {
+          "classLibProjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "alifConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "classLibProjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

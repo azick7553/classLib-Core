@@ -1,0 +1,9 @@
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/bin/Debug/netstandard2.0/classLibProjects.deps.json
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/bin/Debug/netstandard2.0/classLibProjects.dll
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/bin/Debug/netstandard2.0/classLibProjects.pdb
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/obj/Debug/netstandard2.0/classLibProjects.csprojAssemblyReference.cache
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/obj/Debug/netstandard2.0/classLibProjects.csproj.CoreCompileInputs.cache
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/obj/Debug/netstandard2.0/classLibProjects.AssemblyInfoInputs.cache
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/obj/Debug/netstandard2.0/classLibProjects.AssemblyInfo.cs
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/obj/Debug/netstandard2.0/classLibProjects.dll
+/Users/azizjon/Projects/alifAcademyLibProjects/classLibProjects/obj/Debug/netstandard2.0/classLibProjects.pdb
